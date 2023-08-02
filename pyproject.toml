@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ray-tracing"
+version = "0.1.0"
+description = ""
+authors = ["Roostique <mannapovr@sigma-geophys.com>"]
+readme = "README.md"
+packages = [{include = "ray_tracing"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+matplotlib = "^3.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

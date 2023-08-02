@@ -1,0 +1,9 @@
+# IntelliJ project files
+.idea
+
+# Temp folders
+.pytest_cache
+__pycache__
+
+# Temp files
+poetry.lock
