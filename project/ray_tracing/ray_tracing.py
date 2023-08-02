@@ -1,4 +1,4 @@
-"""Module with class for ray tracing."""
+"""Module with class with ray tracing methods."""
 
 from math import fabs, asin, degrees, radians, sin, tan, sqrt
 from typing import List, Union
